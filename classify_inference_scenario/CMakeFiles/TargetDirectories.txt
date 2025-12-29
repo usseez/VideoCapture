@@ -1,0 +1,3 @@
+/home/ubuntu/networkbuild/data_aquisition/tools/classify_inference_scenario/CMakeFiles/main.dir
+/home/ubuntu/networkbuild/data_aquisition/tools/classify_inference_scenario/CMakeFiles/edit_cache.dir
+/home/ubuntu/networkbuild/data_aquisition/tools/classify_inference_scenario/CMakeFiles/rebuild_cache.dir
